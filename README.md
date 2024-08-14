@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abigail Sylvie</h1>
-<h3 align="center">A passionate data scientist from Cameroon</h3>
+<h3 align="center"Tech Enthusiast & Diversity Advocate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigailsylvie&label=Profile%20views&color=0e75b6&style=flat" alt="abigailsylvie" /> </p>
 
