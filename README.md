@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abigail Sylvie</h1>
-<h3 align="center"Tech Enthusiast & Diversity Advocate</h3>
+<h3 align="center">Tech Enthusiast & Diversity Advocate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigailsylvie&label=Profile%20views&color=0e75b6&style=flat" alt="abigailsylvie" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ABIGAL78500301" target="blank"><img src="https://img.shields.io/twitter/follow/abigail78500301?logo=twitter&style=for-the-badge" alt="abigail78500301" /></a> </p>
 
-- 🌱 I’m currently learning **django | Data Science | AWS Cloud**
+- 🌱 I’m currently learning **python | cybersecurity | AWS Cloud**
 
 - 📫 How to reach me **abigailsylvie78@gmail.com**
 
