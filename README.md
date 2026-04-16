@@ -1,8 +1,8 @@
 # Abigail Sylvie
 ### `AI/ML · Cloud · Cybersecurity · Open Source`
 
-> Building at the intersection of **technology and inclusion** — one commit at a time.  
-> Exploring Python, AWS, and open-source infrastructure. Advocate for women in tech.
+> Building at the intersection of **technology and inclusion**  one commit at a time.  
+> Exploring NLP, AWS, and open-source infrastructure. Advocate for women in tech.
 
 ---
 
@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-|  Currently exploring | Python · AWS Cloud · Cybersecurity |
+|  Currently exploring | NLP · AWS Cloud · Cybersecurity |
 |  Diving deeper into | Machine Learning · Digital Public Infrastructure |
 |  Ask me about | Open source contribution, Women in Tech, Cloud fundamentals |
 |  Open to | Collaborations · Mentorship · Community projects |
