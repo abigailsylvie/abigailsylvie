@@ -55,11 +55,11 @@
 
 ---
 
-### 🏆 Profile Trophy
+<!--### 🏆 Profile Trophy
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=abigailsylvie&theme=flat&no-frame=true&column=6" />
-</p>
+</p>-->
 
 ---
 
