@@ -1,89 +1,78 @@
-<h1 align="center">Hi 👋, I'm Abigail Sylvie</h1>
-<h3 align="center">Tech Enthusiast | Cloud Learner | Diversity Advocate</h3>
+# Abigail Sylvie
+### `AI/ML · Cloud · Cybersecurity · Open Source`
+
+> Building at the intersection of **technology and inclusion** — one commit at a time.  
+> Exploring Python, AWS, and open-source infrastructure. Advocate for women in tech.
+
+---
+
+###  Quick Map
+
+| | |
+|---|---|
+|  Currently exploring | Python · AWS Cloud · Cybersecurity |
+|  Diving deeper into | Machine Learning · Digital Public Infrastructure |
+|  Ask me about | Open source contribution, Women in Tech, Cloud fundamentals |
+|  Open to | Collaborations · Mentorship · Community projects |
+|  Reach me at | abigailsylvie78@gmail.com |
+
+---
+
+### 🛠️Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-1D9E75?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-444441?style=flat-square&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-185FA5?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-185FA5?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-854F0B?style=flat-square&logo=php&logoColor=white)
+
+**Frameworks & Libraries**  
+![Django](https://img.shields.io/badge/Django-3C3489?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3C3489?style=flat-square&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-854F0B?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-854F0B?style=flat-square&logo=pandas&logoColor=white)
+
+**Cloud & Tools**  
+![AWS](https://img.shields.io/badge/AWS-A32D2D?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0F6E56?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-185FA5?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-A32D2D?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-185FA5?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abigailsylvie&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=abigailsylvie&layout=compact&hide_border=true&title_color=1D9E75" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abigailsylvie&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" />
+</p>
+
+---
+
+### 🏆 Profile Trophy
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=abigailsylvie&theme=flat&no-frame=true&column=6" />
+</p>
+
+---
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abigailsylvie-185FA5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abigailsylvie)
+[![Twitter](https://img.shields.io/badge/Twitter-@abigail78500301-444441?style=flat-square&logo=twitter)](https://twitter.com/abigail78500301)
+[![Email](https://img.shields.io/badge/Email-abigailsylvie78@gmail.com-1D9E75?style=flat-square&logo=gmail)](mailto:abigailsylvie78@gmail.com)
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abigailsylvie&label=Profile%20views&color=0e75b6&style=flat" alt="abigailsylvie" />
+  <img src="https://komarev.com/ghpvc/?username=abigailsylvie&label=Profile+views&color=1D9E75&style=flat-square" />
 </p>
 
-
-
-### 💡 About Me
-
-I'm a passionate tech enthusiast currently exploring **Python, Cybersecurity, and AWS Cloud**.  
-I believe in using technology to build innovative solutions and create inclusive spaces.  
-As a diversity advocate, I actively support and encourage more women to pursue careers in tech.
-
-
-### 🧠 Skills & Interests
-
-Cloud Computing • Cybersecurity • Web Development • Data Science  
-Machine Learning • Open Source • Technical Writing • Women in Tech Advocacy
-
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-</p>
-
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abigailsylvie&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abigailsylvie&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abigailsylvie" alt="GitHub Streak" />
-</p>
-
-
-
-### 🏆 Achievements
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abigailsylvie" alt="Trophies" />
-  </a>
-</p>
-
-
-
-### 🌐 Let's Connect
-
-- 📬 Email: **abigailsylvie78@gmail.com**
-- 🐦 Twitter: [@abigail78500301](https://twitter.com/abigail78500301)
-- 💼 LinkedIn: [abigailsylvie](https://www.linkedin.com/in/abigailsylvie)
-
-<p align="left">
-  <a href="https://twitter.com/abigail78500301" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/abigailsylvie" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
-
-
-
-### 🤝 Open to Collaborations
-
-I'm always open to collaborating on impactful projects, learning opportunities, or community initiatives. Feel free to reach out!
-
+<p align="center"><i>"Technology is most powerful when it includes everyone."</i></p>
