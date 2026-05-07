@@ -1,8 +1,8 @@
 # Abigail Sylvie
-### `AI/ML · Cloud · Cybersecurity · Open Source`
+### `AI/ML · Cloud · Cybersecurity . Digital Transformation Advocate`
 
 > Building at the intersection of **technology and inclusion**  one commit at a time.  
-> Exploring NLP, AWS, and open-source infrastructure. Advocate for women in tech.
+> Exploring NLP, AWS. Advocate for women in tech.
 
 ---
 
